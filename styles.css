@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+    background-color: #1d3557;
+}
+
+a{
+    color: #457b9d;
+}
+
+.btn{
+    border: solid;
+    width: 10rem;
+    height: 10rem;
+    margin: 5rem 2rem 0rem 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    color: #f1faee;
+    text-shadow: 3px 0 #e63946;
+
+}
+
+h1{
+
+    color: #f1faee;
+    margin-top:7rem;
+    font-size: 7rem;
+    text-shadow: 3px 0 #e63946;
+
+}
+   
+
+h2{
+    font-size: 3rem;
+}
+
+.w{
+    background-image: url("./images/kick.png");
+    background-size: 100%;
+    background-position: center;
+}
+
+
+.a{
+    background-image: url("./images/cymbal.jpg");
+    background-size: 200%;
+    background-repeat: no-repeat;
+}
+
+.s{
+    background-image: url("./images/high\ hat\ .jpeg");
+    background-size: 270%;
+    background-position: -30px -70px;
+    background-repeat: no-repeat;
+}
+
+.d{
+    background-image: url("./images/mid\ tom.jpeg");
+    background-size: 200%;
+    background-position: 0px -30px;
+    background-repeat: no-repeat;
+}
+
+.f{
+    background-image: url("./images/kick.png");
+    background-size: 200%;
+    background-position: 0px -30px;
+    background-repeat: no-repeat;
+}
+
+footer{
+    
+    color: #a8dadc;
+    margin-top: 18rem
+
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 black; 
+    opacity: 0.5;   
+}
